@@ -1,0 +1,68 @@
+body {
+  background-color: beige;
+  border-top: 80px dotted;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#title {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+}
+
+#sub-title {
+  font-style: italic;
+  color: rgb(250, 66, 66);
+}
+h3 {
+  text-align: center;
+  margin: 10 auto;
+  display: block;
+  border-bottom: 10px;
+}
+
+header a {
+  text-decoration: none;
+  color: rgb(105, 27, 27);
+}
+
+#for-bottom {
+  margin-bottom: 3%;
+}
+#salade {
+  display: flex;
+  justify-content: center;
+}
+
+#section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2%;
+}
+
+.section-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-table {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+:visited {
+  color: rgb(105, 27, 27);
+}
